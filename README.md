@@ -57,7 +57,7 @@ git clone https://github.com/YOUR-USERNAME/interview-ready-app.git
 Go to project folder:
 
 ```
-cd interview-ready-app
+cd product-dashboard
 ```
 
 Install dependencies:
@@ -103,7 +103,7 @@ This project was built to demonstrate frontend development skills including:
 
 ## 👨‍💻 Author
 
-**Neil**  
+**Nitin Mathur**  
 Frontend Developer  
 
 🔗 GitHub: https://github.com/Neil9210  
