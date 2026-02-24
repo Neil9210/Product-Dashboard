@@ -1,73 +1,104 @@
-# Welcome to your Lovable project
+🚀 Interview Ready App
 
-## Project info
+A modern and responsive React application built with Vite, TypeScript, and Tailwind CSS.
+This project demonstrates clean UI design, reusable components, and scalable frontend structure.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+🌐 Live Demo
 
-There are several ways of editing your application.
+👉 https://product-dashboard-pi-pearl.vercel.app/
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+📌 Features
 
-Changes made via Lovable will be committed automatically to this repo.
+✅ Responsive modern UI
+✅ Component-based architecture
+✅ Clean and scalable folder structure
+✅ Fast performance using Vite
+✅ Tailwind CSS styling
+✅ TypeScript support
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🛠️ Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- ⚛️ React
+- ⚡ Vite
+- 🟦 TypeScript
+- 🎨 Tailwind CSS
+- 🧩 shadcn/ui components
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+📂 Project Structure
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+src/
+ ├── components/
+ ├── pages/
+ ├── hooks/
+ ├── lib/
+ ├── App.tsx
+ └── main.tsx
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+⚙️ Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/YOUR-USERNAME/interview-ready-app.git
+
+Go to project folder:
+
+cd interview-ready-app
+
+Install dependencies:
+
+npm install
+
+Run development server:
+
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+Open in browser:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+http://localhost:8080
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📱 Responsive Design
 
-## What technologies are used for this project?
+The application is optimized for:
 
-This project is built with:
+✔ Mobile devices
+✔ Tablets
+✔ Desktop screens
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+🎯 Purpose of Project
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+This project was built to demonstrate frontend development skills including:
 
-## Can I connect a custom domain to my Lovable project?
+- Writing clean and maintainable code
+- Building responsive interfaces
+- Structuring scalable React applications
+- Implementing modern UI practices
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+👨‍💻 Author
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Neil
+Frontend Developer
+
+🔗 GitHub: https://github.com/Neil9210
+🔗 Portfolio: https://neil9210.github.io/portfolio/
+
+---
+
+⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
